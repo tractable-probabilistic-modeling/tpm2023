@@ -3,7 +3,7 @@ small alterations for Franklin
 */
 h1.page.title,
 hr {
-  position relative
+  position: relative;
   padding-left: 12.5%;
   padding-right: 12.5%;
   line-height: 1.35em;
@@ -12,7 +12,7 @@ hr {
 @media (min-width: 940px) {
   h1.page.title,
   hr {
-    width: 705px;
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
   }
@@ -28,7 +28,7 @@ hr {
 
 h2.page.title,
 hr {
-  position relative
+  position: relative;
   padding-left: 12.5%;
   padding-right: 12.5%;
   line-height: 1.35em;
@@ -37,7 +37,7 @@ hr {
 @media (min-width: 940px) {
   h2.page.title,
   hr {
-    width: 705px;
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
   }
@@ -164,10 +164,6 @@ sub {
   bottom: -0.25em;
 }
 
-img {
-  border: 0;
-}
-
 svg:not(:root) {
   overflow: hidden;
 }
@@ -283,11 +279,6 @@ legend {
   display: none !important;
 }
 
-.pure-img {
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
 
 .pure-g {
   font-family: FreeSans, Arimo, 'Droid Sans', Helvetica, Arial, sans-serif;

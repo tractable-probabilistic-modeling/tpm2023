@@ -1,12 +1,14 @@
 @def title = "Call for papers"
 @def tags = ["syntax", "code"]
 
-**Types of submissions:**
 
-1) Research papers that discuss novel TPM research, or 
-2) Retrospective papers discussing the impact, consequences, and lessons learned from classical TPM papers
+We invite three types of submissions:
 
-**Topics of interest:**
+1) **novel research** on tractable probabilistic modeling
+2) **retrospective papers** discussing the impact, consequences, and lessons learned
+3) **recently accepted papers** at UAI that present advances in tractable probabilistic models (_in the format used when previously published_)
+
+## Topics of interest
 
 * new tractable representations in logical, continuous and hybrid domains
 * learning algorithms for TPMs
@@ -16,5 +18,9 @@
 * approximate inference algorithms with guarantees
 * successful applications of TPMs to real-world problems
 
-**Format:**
-Submissions should have _up to 4 pages_, excluding references, using the ICML format.
+## Submission Instructions
+Submissions should have _up to 4 pages_, excluding references, using the [UAI format](https://www.auai.org/uai2022/submission_instructions).
+
+## Important Dates
+* **Submission deadline:** June, 2nd 2022 AoE
+* **Notification of acceptance:** July, 5th 2022
