@@ -1,4 +1,4 @@
-Sitemap: https://tlienart.github.io/FranklinTemplates.jl/sitemap.xml
+Sitemap: https://tractable-probabilistic-modeling.github.io/tpm2022/sitemap.xml
 
 User-agent: *
 Disallow:
