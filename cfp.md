@@ -19,7 +19,7 @@ We invite three types of submissions:
 * successful applications of TPMs to real-world problems
 
 ## Submission Instructions
-Submissions should have _up to 4 pages_, excluding references, using the [UAI format](https://www.auai.org/uai2022/submission_instructions).
+Submissions are single-blind and should have _up to 4 pages_, excluding references, using the [TPM format](/assets/tpm2022-template.zip).
 
 ## Important Dates
 * **Submission deadline:** June, 2nd 2022 AoE
