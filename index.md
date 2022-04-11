@@ -1,4 +1,4 @@
-@def title = "5th Workshop on Tractable Probabilistic Modeling"
+@def title = "5th Workshop on Tractable Probabilistic Modeling at UAI 2022"
 @def subtitle = "From Theory to Practice (and Back)"
 @def tags = ["tractable", "probabilistic", "modelling"]
 
