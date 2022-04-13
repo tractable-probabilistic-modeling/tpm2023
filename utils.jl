@@ -33,19 +33,20 @@ function hfun_speakers()
         name = speaker["name"]
         title = speaker["title"]
         img = speaker["img"]
+        affiliation = speaker["affiliation"]
 
         write(io, """
             <div class="col-sm-3">
             <div class="hover hover-2"><img src="/assets/speakers/$img" alt="$name">
                 <div class="hover-overlay"></div>
                 <div class="hover-2-content">
-                    <h3 class="hover-2-title text-uppercase"><a href="$url">$name</a></h3>
-                    <p class="hover-2-description text-uppercase mb-0">$title</p>
+                    <h3 class="hover-2-title text-uppercase text-center"><a href="$url">$name</a></h3>
                 </div>
+
             </div>
+            <p class="text-center"><small>$affiliation</small></p>
             </div>
         """)
-
     end
 
     write(io, """

@@ -1,5 +1,6 @@
-@def title = "5th Workshop on Tractable Probabilistic Modeling at UAI 2022"
+@def title = "5th Workshop on Tractable Probabilistic Modeling"
 @def subtitle = "From Theory to Practice (and Back)"
+@def conference = "UAI 2022"
 @def tags = ["tractable", "probabilistic", "modelling"]
 
 # Workshop Description
@@ -8,16 +9,9 @@ AI and ML systems designed and deployed to support decision making in the real w
 # Speakers
 {{ speakers }} 
 
-# Call for Papers & Important Dates
+# Call for Papers
 
-We invite three types of submissions:
-
-1) **novel research** on tractable probabilistic modeling 
-2) **retrospective papers** discussing the impact, consequences, and lessons learned
-3) **recently accepted papers** at UAI that present advances in tractable probabilistic models
-
-## Topics of interest
-
+Prospective authors are invited to submit **novel research**, **retrospective papers** or **recently accepted papers** on relevant topics including, but not limited to:
 * New tractable representations in logical, continuous and hybrid domains
 * Learning algorithms for tractable probabilistic models
 * Theoretical and empirical analysis of tractable probabilistic models
@@ -26,15 +20,22 @@ We invite three types of submissions:
 * Approximate inference algorithms (with guarantees)
 * Successful applications of tractable probabilistic models to real-world problems
 
-## Important Dates
+Submissions of original or retrospective papers should be _up to 4 pages_ and use the [TPM format](/assets/tpm2022-template.zip). 
+
+See [call for papers](/cfp/) for further instructions.
+
+
+# Important Dates
 * **Submission deadline:** June, 2nd 2022 AoE
 * **Notification of acceptance:** July, 5th 2022
-
-See [call for papers](/cfp/) for submission instructions.
+* **Camera-ready version:** TBA
+* **Workshop date:** August, 5th 2022
 
 # Schedule
 The workshop will be held **in-person** on August 5th, 2022 in Eindhoven, Netherlands.
+
 The tentative schedule can be found [here](/schedule/).
+
 
 # Organizers 
 
@@ -43,3 +44,7 @@ The tentative schedule can be found [here](/schedule/).
 * [Martin Trapp](https://trappmartin.github.io/), Aalto University, Finland
 * [Fabrizio Ventola](https://www.aiml.informatik.tu-darmstadt.de/people/fventola/), TU Darmstadt, Germany
 * [Antonio Vergari](nolovedeeplearning.com), University of Edinburgh, UK
+
+##
+
+Contact us at: [tpmworkshop2022@gmail.com](mailto:tpmworkshop2022@gmail.com)

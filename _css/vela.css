@@ -4,9 +4,17 @@ small alterations for Franklin
 h1.page.title,
 hr {
   position: relative;
-  padding-left: 12.5%;
-  padding-right: 12.5%;
-  line-height: 1.35em;
+  padding-left: 10%;
+  /* padding-right: -12.5%; */
+  /* line-height: 1.35em; */
+}
+
+h2.page.title,
+hr {
+  position: relative;
+  padding-left: 10%;
+  /* padding-right: 12.5%; */
+  /* line-height: 1.35em; */
 }
 
 @media (min-width: 940px) {
@@ -26,13 +34,7 @@ hr {
   }
 }
 
-h2.page.title,
-hr {
-  position: relative;
-  padding-left: 12.5%;
-  padding-right: 12.5%;
-  line-height: 1.35em;
-}
+
 
 @media (min-width: 940px) {
   h2.page.title,
