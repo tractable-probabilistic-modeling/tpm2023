@@ -21,6 +21,8 @@ We invite three types of submissions:
 ## Important Dates
 * **Submission deadline:** June, 2nd 2022 AoE
 * **Notification of acceptance:** July, 5th 2022
+* **Camera-ready version:** TBA
+* **Workshop date:** August, 5th 2022
 
 ## Submission Instructions
 Original papers and retrospective papers are required to follow the style guidelines of UAI 2022 and should be using the following adjusted template [TPM format](/assets/tpm2022-template.zip). Submitted papers should be _up to 4 pages_ long, excluding references. Already accepted papers, can be submitted in the format of the venue they have been accepted to. Supplementary material can be put in the same pdf paper (after references); it is entirely up to the reviewers to decide whether they wish to consult this additional material.
