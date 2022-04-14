@@ -28,7 +28,7 @@ See [call for papers](/cfp/) for further instructions.
 # Important Dates
 * **Submission deadline:** June, 2nd 2022 AoE
 * **Notification of acceptance:** July, 5th 2022
-* **Camera-ready version:** TBA
+* **Camera-ready version:** August, 12th 2022
 * **Workshop date:** August, 5th 2022
 
 # Schedule
