@@ -24,42 +24,37 @@ function hfun_speakers()
 
     io = IOBuffer()
 
-    write(io, """ <div class="container"> <div class="row">""")
+    write(io, """ <div class="container"> <div class="row justify-content-center people-widget text-center">""")
 
-
+    sort!(speakers, by = speaker -> speaker["surname"])
 
     for speaker in speakers
         url = speaker["url"]
         name = speaker["name"]
-        title = speaker["title"]
-        img = speaker["img"]
+        img = get(speaker, "img", nothing)
         affiliation = speaker["affiliation"]
 
         write(io, """
-            <div class="col-sm-3">
-            <div class="hover hover-2"><img src="/assets/speakers/$img" alt="$name">
-                <div class="hover-overlay"></div>
-                <div class="hover-2-content">
-                    <h3 class="hover-2-title text-uppercase text-center"><a href="$url">$name</a></h3>
+            <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
+            <a href="$url">""")
+        if img === nothing
+            write(io, """
+                <div class="avatar-x2 avatar-circle" style="background: #ddd;">
+                    <i class="fa fa-user" style="font-size: 220px; color: #eee; margin-top:20px;"></i>
                 </div>
-
-            </div>
-            <p class="text-center"><small>$affiliation</small></p>
+            """)
+        else
+            write(io, """
+                <img src="/assets/speakers/$img" alt="$name" class="img-responsive img-circle avatar-x2 avatar-circle">
+            """)
+        end
+        write(io, """
+            <h3 class="text-center">$name</h3>
+            <p class="text-muted text-center">$affiliation</p>
+            </a>
             </div>
         """)
     end
-
-    write(io, """
-        <div class="col-sm-3">
-        <div class="hover hover-2"><img <img >
-            <div class="hover-overlay"></div>
-            <div class="hover-2-content">
-                <h3 class="hover-2-title text-uppercase">TBA</h3>
-            </div>
-        </div>
-        </div>
-
-    """)
 
     write(io, "</div> </div>")
 
@@ -75,7 +70,7 @@ function hfun_invitedtalks()
 
     write(io, "<ul>")
 
-
+    sort!(speakers, by = speaker -> speaker["surname"])
 
     for speaker in speakers
         url = speaker["url"]
@@ -83,11 +78,14 @@ function hfun_invitedtalks()
         title = speaker["title"]
         affiliation = speaker["affiliation"]
         abstract = speaker["abstract"]
+        bio = speaker["bio"]
+
 
         write(io, """
             <li> <b><a href="$url">$name</a></b> ($affiliation) <br/>
             <b>Title: </b>$title <br/>
-            <b>Abstract: </b>$abstract <br/><br/>
+            <b>Abstract: </b>$abstract <br/>
+            <b>Bio: </b>$bio <br/><br/>
             </li>
         """)
 

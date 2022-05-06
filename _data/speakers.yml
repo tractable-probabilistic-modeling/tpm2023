@@ -1,14 +1,46 @@
 speakers:
   - name: Elizaveta Semenova
+    surname: Semenova
     url: https://scholar.google.com/citations?user=jqGIgFEAAAAJ
     affiliation: Imperial College London, UK
     title: Encoding spatiotemporal priors for geospatial modeling
     img: liza.jpeg
     abstract: TBA
+    bio: TBA
   
   - name: Rianne van den Berg
+    surname: Berg
     url: https://www.microsoft.com/en-us/research/people/rvandenberg/
     affiliation: Microsoft Research
     title: Generative models for discrete random variables and lossless source compression
     abstract: In this talk I will discuss how different classes of generative models can be adapted to handle discrete random variables, and how this can be used to connect generative models to downstream tasks such as lossless compression. I will start by discussing normalizing flow models, and the challenges that arise when converting these models that are typically designed for real-valued random variables to discrete random variables. Next, I will demonstrate how denoising diffusion models with discrete state spaces have a rich design space in terms of the noising process, and how this influences the performance of the learned denoising model. Finally, I will show how denoising diffusion models can be connected to autoregressive models, and introduce an autoregressive model with a random generation order.
+    bio: TBA
     img: rianne.png
+
+  - name: Baharan Mirzasoleiman
+    surname: Mirzasoleiman
+    url: https://web.cs.ucla.edu/~baharan/
+    affiliation: UCLA, USA
+    title: Efficient and Robust Learning from Massive Datasets
+    abstract: Large datasets have been crucial to the success of modern machine learning models. However, training on massive data has two major limitations. First, it is contingent on exceptionally large and expensive computational resources, and incurs a substantial cost due to the significant energy consumption. Second, in many real-world applications such as medical diagnosis, self-driving cars, and fraud detection, big data contains highly imbalanced classes and noisy labels. In such cases, training on the entire data does not result in a high-quality model. In this talk, I will argue that we can address the above limitations by developing techniques that can identify and extract the most informative subsets for learning from massive datasets. Training on such subsets not only reduces the substantial costs of learning from big data, but also improves their accuracy and robustness against noisy labels. I will discuss how we can develop effective and theoretically rigorous techniques that provide strong guarantees for the learned models’ quality and robustness against noisy labels.
+    bio: TBA
+    img: baharan.png
+
+  - name: Adji Bousso Dieng
+    surname: Dieng
+    url: https://engineering.princeton.edu/faculty/adji-bousso-dieng
+    affiliation: Princeton, USA
+    title: TBA
+    abstract: TBA
+    bio: TBA
+    img: dieng.jpeg
+    
+  - name: Vibhav Gogate
+    surname: Gogate
+    url: https://cs.utdallas.edu/people/faculty/gogate-vibhav/
+    affiliation: UT Dallas, USA
+    title: TBA
+    abstract: TBA
+    bio: TBA
+    img: gogate.jpg
+    
