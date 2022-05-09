@@ -26,20 +26,20 @@ See [call for papers](/cfp/) for further instructions.
 
 
 # Important Dates
-* **Submission deadline:** June, 9th 2022 AoE
-* **Notification of acceptance:** July, 5th 2022
-* **Camera-ready version:** August, 12th 2022
-* **Workshop date:** August, 5th 2022
+* **Submission deadline:** June 9th, 2022 AoE
+* **Notification of acceptance:** July 5th, 2022
+* **Camera-ready version:** August 12th, 2022
+* **Workshop date:** August 5th, 2022
 
 # Schedule
-The workshop will be held **in-person** on August 5th, 2022 in Eindhoven, Netherlands.
+The workshop will be held **in-person** on August 5th, 2022, co-located with [UAI 2022](https://www.auai.org/uai2022/) in Eindhoven, Netherlands.
 
 The tentative schedule can be found [here](/schedule/).
 
 
 # Organizers 
 
-* [Yoojung Choi](https://web.cs.ucla.edu/~yjchoi/), UCLA, USA
+* [YooJung Choi](https://web.cs.ucla.edu/~yjchoi/), UCLA, USA
 * [Eric Nalisnick](https://enalisnick.github.io/), University of Amsterdam, Netherlands
 * [Martin Trapp](https://trappmartin.github.io/), Aalto University, Finland
 * [Fabrizio Ventola](https://www.aiml.informatik.tu-darmstadt.de/people/fventola/), TU Darmstadt, Germany

@@ -19,10 +19,10 @@ We invite three types of submissions:
 * successful applications of TPMs to real-world problems
 
 ## Important Dates
-* **Submission deadline:** June, 9th 2022 AoE
-* **Notification of acceptance:** July, 5th 2022
-* **Camera-ready version:** August, 12th 2022
-* **Workshop date:** August, 5th 2022
+* **Submission deadline:** June 9th, 2022 AoE
+* **Notification of acceptance:** July 5th, 2022
+* **Camera-ready version:** August 12th, 2022
+* **Workshop date:** August 5th, 2022
 
 ## Submission Instructions
 Original papers and retrospective papers are required to follow the style guidelines of UAI 2022 and should be using the following adjusted template [TPM format](/assets/tpm2022-template.zip). Submitted papers should be _up to 4 pages_ long, excluding references. Already accepted papers, can be submitted in the format of the venue they have been accepted to. Supplementary material can be put in the same pdf paper (after references); it is entirely up to the reviewers to decide whether they wish to consult this additional material.
@@ -31,5 +31,5 @@ All submissions must be electronic (through the link below), and must closely fo
 
 For any questions, please contact us at [tpmworkshop2022@gmail.com](mailto:tpmworkshop2022@gmail.com)
 
-Submission Link: [openreview](https://openreview.net/group?id=auai.org/UAI/2022/Workshop/TPM)
+Submission Link: [https://openreview.net/group?id=auai.org/UAI/2022/Workshop/TPM](https://openreview.net/group?id=auai.org/UAI/2022/Workshop/TPM)
 
