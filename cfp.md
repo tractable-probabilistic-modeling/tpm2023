@@ -4,19 +4,20 @@
 
 We invite three types of submissions:
 
-1) **novel research** on tractable probabilistic modeling
-2) **retrospective papers** discussing the impact, consequences, and lessons learned
-3) **recently accepted papers** that present advances in tractable probabilistic models (_in the format and length used when previously published_)
+1) **Novel research** on tractable probabilistic modeling
+2) **Retrospective papers** discussing the impact, consequences, and lessons learned
+3) **Recently accepted papers** that present advances in tractable probabilistic models (_in the format and length used when previously published_)
 
 ## Topics of interest
 
-* new tractable representations in logical, continuous and hybrid domains
-* learning algorithms for TPMs
-* theoretical and empirical analysis of TPMs
-* connections between TPM classes
+Topics of interest include, but are not limited to:
+* New tractable representations in logical, continuous and hybrid domains
+* Learning algorithms for TPMs
+* Theoretical and empirical analysis of TPMs
+* Connections between TPM classes
 * TPMs for responsible, robust and explainable AI
-* approximate inference algorithms with guarantees
-* successful applications of TPMs to real-world problems
+* Approximate inference algorithms with guarantees
+* Successful applications of TPMs to real-world problems
 
 ## Important Dates
 * **Submission deadline:** June 9th, 2022 AoE
