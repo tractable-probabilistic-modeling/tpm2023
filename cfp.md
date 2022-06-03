@@ -20,7 +20,7 @@ Topics of interest include, but are not limited to:
 * Successful applications of TPMs to real-world problems
 
 ## Important Dates
-* **Submission deadline:** June 9th, 2022 AoE
+* **Submission deadline:** June 13th, 2022 AoE
 * **Notification of acceptance:** July 5th, 2022
 * **Camera-ready version:** August 12th, 2022
 * **Workshop date:** August 5th, 2022
