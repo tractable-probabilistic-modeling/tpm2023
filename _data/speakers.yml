@@ -3,10 +3,10 @@ speakers:
     surname: Semenova
     url: https://scholar.google.com/citations?user=jqGIgFEAAAAJ
     affiliation: University of Oxford, UK
-    title: Encoding spatiotemporal priors for geospatial modeling
+    title: Encoding spatial priors with VAEs for geospatial modelling
     img: liza.jpeg
-    abstract: TBA
-    bio: TBA
+    abstract: "Gaussian processes (GPs), implemented through multivariate Gaussian distributions for a finite collection of data, are the most popular approach in spatial statistical modelling. In this context they are used to encode correlation structures over space and can generalise well in interpolation tasks. Despite their flexibility, off-the-shelf GPs present serious computational challenges which limit their scalability and practical usefulness in applied settings. I will present a deep generative modelling approach to tackle this challenge: for a particular spatial setting, a class of GP priors is approximated through prior sampling and subsequent training of a variational autoencoder (VAE). Given a trained VAE, the resultant decoder allows spatial inference to become incredibly efficient due to the low dimensional, independently distributed latent Gaussian space representation of the VAE. Once trained, inference using the VAE decoder replaces the GP within a Bayesian sampling framework. This approach provides tractable and easy-to-implement means of approximately encoding spatial priors and facilitates efficient statistical inference."
+    bio: Liza is currently a postdoctoral research associate at the University of Oxford where she works on scalable methods and flexible models for spatiotemporal data. More broadly, interests lie at the intersection of Bayesian statistics and such applied fields as epidemiology, public policy and drug discovery.
   
   - name: Rianne van den Berg
     surname: Berg
