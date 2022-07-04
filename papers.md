@@ -1,3 +1,3 @@
 @def title = "Accepted Papers"
 
-TBA
+The list of accepted papers will be announced soon.

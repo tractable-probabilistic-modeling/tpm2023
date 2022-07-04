@@ -1,6 +1,4 @@
 @def title = "Call for papers"
-@def tags = ["syntax", "code"]
-
 
 We invite three types of submissions:
 
