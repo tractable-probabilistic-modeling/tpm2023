@@ -1,0 +1,78 @@
+papers:
+  - title: "Embrace the Gap: VAEs Perform Independent Mechanism Analysis"
+    authors: Patrik Reizinger, Luigi Gresele, Jack Brady, Julius Von Kügelgen, Dominik Zietlow, Bernhard Schölkopf, Georg Martius, Wieland Brendel, Michel Besserve
+
+  - title: "Why Is This an Outlier? Explaining Outliers by Submodular Optimization of Marginal Distributions"
+    authors: Pasha Khosravi, Antonio Vergari, Guy Van den Broeck
+
+  - title: "Tractable Uncertainty for Structure Learning"
+    authors: Benjie Wang, Matthew Robert Wicker, Marta Kwiatkowska
+
+  - title: "Learning Linear Non-Gaussian Polytree Models"
+    authors: Daniele Tramontano, Mathias Drton, Anthea Monod
+
+  - title: "Efficient Learning Losses for Deep Hinge-Loss Markov Random Fields"
+    authors: Charles Andrew Dickens, Connor Pryor, Eriq Augustine, Alon Albalak, Lise Getoor
+
+  - title: "AND/OR Branch-and-Bound for Computational Protein Design Optimizing K*"
+    authors: Bobak Pezeshki, Radu Marinescu, Alexander Ihler, Rina Dechter
+
+  - title: "Towards Tractable Dynamic Decision Making With Circuits"
+    authors: Gabriele Venturato, Vincent Derkinderen, Pedro Zuidberg Dos Martires, Luc De Raedt
+
+  - title: "Learning Large Bayesian Networks with Expert Constraints"
+    authors: Vaidyanathan P. Ramaswamy, Stefan Szeider
+
+  - title: "On Priors in Bayesian Probabilistic Circuits and Multivariate Pólya Trees"
+    authors: Martin Trapp, Arno Solin
+
+  - title: "Reducing the Cost of Fitting Mixture Models via Stochastic Sampling"
+    authors: Milan Papez, Tomáš Pevný, Vaclav Smidl
+
+  - title: "Towards Coreset Learning in Probabilistic Circuits"
+    authors: Martin Trapp, Steven Lang, Aastha Shah, Martin Mundt, Kristian Kersting, Arno Solin
+
+  - title: "Tensorised Probabilistic Inference for Neural Probabilistic Logic Programming"
+    authors: Lennert De Smet, Robin Manhaeve, Giuseppe Marra, Pedro Zuidberg Dos Martires
+
+  - title: "Predictive Whittle Networks for Time Series"
+    authors: Zhongjie Yu, Fabrizio Ventola, Nils Thoma, Devendra Singh Dhami, Martin Mundt, Kristian Kersting
+
+  - title: "Sum-Product-Attention Networks: Leveraging Self-Attention in Energy-Based Probabilistic Circuits"
+    authors: Zhongjie Yu, Devendra Singh Dhami, Kristian Kersting
+
+  - title: "Certifying Fairness of Probabilistic Circuits"
+    authors: Nikil Roashan Selvam, Guy Van den Broeck, YooJung Choi
+
+  - title: "Explaining Deep Tractable Probabilistic Models: The sum-product network case"
+    authors: Athresh Karanam, Saurabh Mathur, David M Haas, Predrag Radivojac, Kristian Kersting, Sriraam Natarajan
+
+  - title: "Semantic Probabilistic Layers for Neuro-Symbolic Learning"
+    authors: Kareem Ahmed, Stefano Teso, Kai-Wei Chang, Guy Van den Broeck, Antonio Vergari
+
+  - title: "Neuro-Symbolic Entropy Regularization"
+    authors: Kareem Ahmed, Eric Wang, Kai-Wei Chang, Guy Van den Broeck
+
+  - title: "Your Knowledge Graph Embeddings are Secretly Circuits and You Should Treat Them as Such"
+    authors: Lorenzo Loconte, Nicola Di Mauro, Robert Peharz, Antonio Vergari
+
+  - title: "Learning Cutset Networks by Integrating Data and Noisy, Local Estimates"
+    authors: Shasha Jin, Vasundhara Komaragiri, Tahrima Rahman, Vibhav Giridhar Gogate
+
+  - title: "Robust Learning of Tractable Probabilistic Models"
+    authors: Rohith Peddi, Tahrima Rahman, Vibhav Giridhar Gogate
+
+  - title: "Exploiting Inferential Structure in Neural Processes"
+    authors: Dharmesh Tailor, Mohammad Emtiyaz Khan, Eric Nalisnick
+
+  - title: "Generating Heavy-Tailed Synthetic Data with Normalizing Flows"
+    authors: Saba Amiri, Eric Nalisnick, Adam Belloum, Sander Klous, Leon Gommans
+
+  - title: "Sparse Probabilistic Circuits via Pruning and Growing"
+    authors: Meihua Dang, Anji Liu, Guy Van den Broeck
+
+  - title: "Bayesian Weak Supervision via an Optimal Transport Approach"
+    authors: Putra Manggala, Holger Hoos, Eric Nalisnick
+
+  - title: "Distributionally Robust Learning of Sum-Product Networks"
+    authors: Rohith Peddi, Vibhav Giridhar Gogate

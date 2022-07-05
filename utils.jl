@@ -82,10 +82,43 @@ function hfun_invitedtalks()
 
 
         write(io, """
-            <li> <b><a href="$url">$name</a></b> ($affiliation) <br/>
-            <b>Title: </b>$title <br/>
-            <b>Abstract: </b>$abstract <br/>
-            <b>Bio: </b>$bio <br/><br/>
+            <li>
+            <h2> $title </h2>
+            <p><strong><a href="$url">$name</a></strong> ($affiliation) <p/>
+            <p><strong>Abstract: </strong>$abstract <p/>
+            <div class="text-muted"><p><strong>Bio: </strong>$bio <p/></div>
+            </li>
+        """)
+
+    end
+
+    write(io, "</ul>")
+
+    return String(take!(io))
+end
+
+function hfun_papers()
+
+    data = YAML.load_file("_data/papers.yml")
+    papers = data["papers"]
+
+    io = IOBuffer()
+
+    write(io, "<ul>")
+
+    #sort!(speakers, by = speaker -> speaker["surname"])
+
+    for paper in papers
+        title = paper["title"]
+        authors = paper["authors"]
+        url = get(paper, "paper", nothing)
+        poster = get(paper, "poster", nothing)
+        talk = get(paper, "talk", nothing)
+
+
+        write(io, """
+            <li><span> <b>$title</b> <br/>
+            <small><i>$authors </i></small><br/><span/>
             </li>
         """)
 

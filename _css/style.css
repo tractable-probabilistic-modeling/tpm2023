@@ -102,3 +102,7 @@
     margin-top: 24px;
     margin-bottom: 8px;
 }
+
+ul li {
+    margin: 10px 0;
+  }
