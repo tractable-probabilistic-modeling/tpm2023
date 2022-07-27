@@ -111,15 +111,15 @@ function hfun_papers()
     for paper in papers
         title = paper["title"]
         authors = paper["authors"]
-        url = get(paper, "paper", nothing)
+        url = get(paper, "url", nothing)
         poster = get(paper, "poster", nothing)
         talk = get(paper, "talk", nothing)
 
-
         write(io, """
-            <li><span> <b>$title</b> <br/>
-            <small><i>$authors </i></small><br/><span/>
-            </li>
+            <li><span>
+            <strong><a href="$url">$title</a></strong><br/>
+            <small><i>$authors </i></small><br/>
+            <span/></li>
         """)
 
     end
