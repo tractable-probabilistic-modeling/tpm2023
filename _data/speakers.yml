@@ -23,7 +23,7 @@ speakers:
     affiliation: UCLA, USA
     title: Efficient and Robust Learning from Massive Datasets
     abstract: Large datasets have been crucial to the success of modern machine learning models. However, training on massive data has two major limitations. First, it is contingent on exceptionally large and expensive computational resources, and incurs a substantial cost due to the significant energy consumption. Second, in many real-world applications such as medical diagnosis, self-driving cars, and fraud detection, big data contains highly imbalanced classes and noisy labels. In such cases, training on the entire data does not result in a high-quality model. In this talk, I will argue that we can address the above limitations by developing techniques that can identify and extract the most informative subsets for learning from massive datasets. Training on such subsets not only reduces the substantial costs of learning from big data, but also improves their accuracy and robustness against noisy labels. I will discuss how we can develop effective and theoretically rigorous techniques that provide strong guarantees for the learned models’ quality and robustness against noisy labels.
-    bio: TBA
+    bio: Baharan Mirzasoleiman is an Assistant Professor in the Computer Science Department at University of California Los Angeles. Baharan’s research focuses on developing new methods that enable efficient and robust learning from massive datasets. She received her PhD from ETH Zurich, and was a Postdoc at Stanford University. She was awarded an ETH medal for Outstanding Doctoral Dissertation, and a Google Anita Borg Memorial Scholarship. She was also selected as a Rising Star in EECS from MIT.
     img: baharan.png
 
   - name: Adji Bousso Dieng
