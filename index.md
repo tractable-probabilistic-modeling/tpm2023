@@ -9,6 +9,12 @@ AI and ML systems designed and deployed to support decision making in the real w
 # Invited Speakers
 {{ speakers }} 
 
+# Schedule
+The workshop will be held **in-person** on August 5th, 2022, co-located with [UAI 2022](https://www.auai.org/uai2022/) in Eindhoven, Netherlands.
+The exact location will be announced soon.
+
+The workshop schedule can be found [here](/schedule/).
+
 # Call for Papers
 
 Prospective authors are invited to submit **novel research**, **retrospective papers** or **recently accepted papers** on relevant topics including, but not limited to:
@@ -30,12 +36,6 @@ See [call for papers](/cfp/) for further instructions.
 * **Notification of acceptance:** July 5th, 2022
 * **Camera-ready version:** August 12th, 2022
 * **Workshop date:** August 5th, 2022
-
-# Schedule
-The workshop will be held **in-person** on August 5th, 2022, co-located with [UAI 2022](https://www.auai.org/uai2022/) in Eindhoven, Netherlands.
-
-The tentative schedule can be found [here](/schedule/).
-
 
 # Organizers 
 
