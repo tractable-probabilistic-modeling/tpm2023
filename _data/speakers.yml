@@ -39,17 +39,21 @@ speakers:
     surname: Gogate
     url: https://cs.utdallas.edu/people/faculty/gogate-vibhav/
     affiliation: UT Dallas, USA
-    title: TBA
-    abstract: TBA
-    bio: TBA
+    title: Algorithms for Solving The Constrained Most Probable Explanation Problem
+    abstract: Recently there has been growing interest in developing probabilistic models that are robust to minor perturbations in input and are explainable in that they are able to explain why they made a particular decision to a user. In this talk, I will describe a new unifying optimization task called constrained most probable explanation (CMPE), and show that the two aforementioned tasks, making models robust and explainable, can be reduced to CMPE. I will show that CMPE is strongly NP-hard in general on arbitrary probabilistic models, but only weakly NP-hard on probabilistic models having small k-separators (a sub-class of tractable models that admit poly-time marginal inference). The main virtue of this weakly NP-hard property is that we can leverage it to derive efficient cutset sampling and local search approximations for lower bounding the optimal value of CMPE. For upper bounding, I will present efficient approaches that combine graph-based partitioning techniques with approximations developed in the literature on knapsack problems. These upper bounding techniques are guaranteed to be better than linear programming based bounds on probabilistic models that admit tractable marginal inference and have much smaller computational complexity. I will end my talk by presenting experimental results and applications as well as avenues for future work. (Joint work with Sara Rouhani, Rohith Peddi and Tahrima Rahman)
+    bio: Vibhav Gogate is an Associate Professor in the Computer Science Department at the University of Texas at Dallas. He got his Ph.D. at University of California, Irvine in 2009 and then did a two-year post-doc at University of Washington. His research interests are in AI, machine learning and data mining. His ongoing focus is on probabilistic graphical models; their first-order logic based extensions such as Markov logic and probabilistic programming; tractable probabilistic models and explainable AI. He is a recipient of the national science foundation CAREER award and the co-winner of 2010 and 2012 UAI inference competitions.
     img: gogate.jpg
 
   - name: Vikash K. Mansinghka
     surname: Mansinghka
     url: http://probcomp.csail.mit.edu/principal-investigator/
     affiliation: MIT, USA
-    title: TBA
-    abstract: TBA
-    bio: TBA
+    title: An alternate scaling route for AI via probabilistic programs
+    abstract: "A great deal of enthusiasm has been focused on building increasingly large neural models. This talk will review progress along an alternate scaling route based on probabilistic programs whose source code is partly written by AI engineers and partly learned from data. This approach integrates key ideas from large-scale generative modeling and deep learning with probabilistic inference and symbolic programming. Unlike neural networks, generative probabilistic programs can report what they know, what they don’t, and why; they can be modularly designed, debugged, trained, and tested; and they can learn new symbolic code rapidly and accurately from sparse data. 
+
+This talk will review probabilistic programs, written in Gen, that outperform machine learning in perceiving the 3D structure of cluttered tabletop scenes and forecasting macroeconomic time series. It will also present results from the SPPL language (based on probabilistic circuits) showing how to analyze decision tree fairness ~1000x faster than previous approaches."
+
+This talk will highlight fundamental tradeoffs between tractability and expressiveness, and discuss roles for PPL implementations of tractable probabilistic models (and of alternative notions of tractability) in scaling AI systems engineering.
+    bio: "Vikash Mansinghka is a Principal Research Scientist at MIT, where he leads the Probabilistic Computing Project. Vikash holds S.B. degrees in Mathematics and in Computer Science from MIT, as well as an M.Eng. in Computer Science and a PhD in Computation. He also held graduate fellowships from the National Science Foundation and MIT’s Lincoln Laboratory. His PhD dissertation on natively probabilistic computation won the MIT George M. Sprowls dissertation award in computer science, and his research on the Picture probabilistic programming language won an award at CVPR. He co-founded three VC-backed startups: Prior Knowledge (acquired by Salesforce in 2012) and Empirical Systems (acquired by Tableau in 2018), and Common Sense Machines (funded in 2020). He served on DARPA’s Information Science and Technology advisory board from 2010-2012, currently serves on the editorial board for the Journal of Machine Learning Research, and co-founded the International Conference on Probabilistic Programming."
     img: vikash.png
     
