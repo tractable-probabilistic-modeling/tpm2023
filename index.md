@@ -11,7 +11,7 @@ AI and ML systems designed and deployed to support decision making in the real w
 
 # Schedule
 The workshop will be held **in-person** on August 5th, 2022, co-located with [UAI 2022](https://www.auai.org/uai2022/) in Eindhoven, Netherlands.
-The exact location will be announced soon.
+Room: Auditorium room 5
 
 The workshop schedule can be found [here](/schedule/).
 
