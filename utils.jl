@@ -118,7 +118,7 @@ function hfun_papers()
 
         write(io, """
             <li><span>
-            <strong>$(isnothing(id) ? "" : "[id]") <a href="$url">$title</a></strong><br/>
+            <strong>$(isnothing(id) ? "" : "[$id]") <a href="$url">$title</a></strong><br/>
             <small><i>$authors </i></small><br/>
             <span/></li>
         """)
