@@ -2,103 +2,129 @@ papers:
   - title: "Embrace the Gap: VAEs Perform Independent Mechanism Analysis"
     authors: Patrik Reizinger, Luigi Gresele, Jack Brady, Julius Von Kügelgen, Dominik Zietlow, Bernhard Schölkopf, Georg Martius, Wieland Brendel, Michel Besserve
     url: https://openreview.net/forum?id=0wlAmXOfGc
+    id: 5
 
   - title: "Why Is This an Outlier? Explaining Outliers by Submodular Optimization of Marginal Distributions"
     authors: Pasha Khosravi, Antonio Vergari, Guy Van den Broeck
     url: https://openreview.net/forum?id=dLoGOry8sJR
+    id: 6
 
   - title: "Tractable Uncertainty for Structure Learning"
     authors: Benjie Wang, Matthew Robert Wicker, Marta Kwiatkowska
     url: https://openreview.net/forum?id=jvZ7WZVFoot
+    id: 7
 
   - title: "Learning Linear Non-Gaussian Polytree Models"
     authors: Daniele Tramontano, Mathias Drton, Anthea Monod
     url: https://openreview.net/forum?id=49oDhP888G
+    id: 8
 
   - title: "Efficient Learning Losses for Deep Hinge-Loss Markov Random Fields"
     authors: Charles Andrew Dickens, Connor Pryor, Eriq Augustine, Alon Albalak, Lise Getoor
     url: https://openreview.net/forum?id=8ZIJa8Z__5L
+    id: 9
 
   - title: "AND/OR Branch-and-Bound for Computational Protein Design Optimizing K*"
     authors: Bobak Pezeshki, Radu Marinescu, Alexander Ihler, Rina Dechter
     url: https://openreview.net/forum?id=JJkB5xAZTHU
+    id: 11
 
   - title: "Towards Tractable Dynamic Decision Making With Circuits"
     authors: Gabriele Venturato, Vincent Derkinderen, Pedro Zuidberg Dos Martires, Luc De Raedt
     url: https://openreview.net/forum?id=kR6u6m5xpd
+    id: 12
 
   - title: "Learning Large Bayesian Networks with Expert Constraints"
     authors: Vaidyanathan P. Ramaswamy, Stefan Szeider
     url: https://openreview.net/forum?id=MgExNPM7rjt
+    id: 13
 
   - title: "On Priors in Bayesian Probabilistic Circuits and Multivariate Pólya Trees"
     authors: Martin Trapp, Arno Solin
     url: https://openreview.net/forum?id=9IiOHCP6VE6
+    id: 14
 
   - title: "Reducing the Cost of Fitting Mixture Models via Stochastic Sampling"
     authors: Milan Papez, Tomáš Pevný, Vaclav Smidl
     url: https://openreview.net/forum?id=WPWcn80R36y
+    id: 15
 
   - title: "Towards Coreset Learning in Probabilistic Circuits"
     authors: Martin Trapp, Steven Lang, Aastha Shah, Martin Mundt, Kristian Kersting, Arno Solin
     url: https://openreview.net/forum?id=bt2cS60SxSP
+    id: 16
 
   - title: "Tensorised Probabilistic Inference for Neural Probabilistic Logic Programming"
     authors: Lennert De Smet, Robin Manhaeve, Giuseppe Marra, Pedro Zuidberg Dos Martires
     url: https://openreview.net/forum?id=6Kpbq2Y2IK6
+    id: 17
 
   - title: "Predictive Whittle Networks for Time Series"
     authors: Zhongjie Yu, Fabrizio Ventola, Nils Thoma, Devendra Singh Dhami, Martin Mundt, Kristian Kersting
     url: https://openreview.net/forum?id=LHzwMWXnDe5
+    id: 18
 
   - title: "Sum-Product-Attention Networks: Leveraging Self-Attention in Energy-Based Probabilistic Circuits"
     authors: Zhongjie Yu, Devendra Singh Dhami, Kristian Kersting
     url: https://openreview.net/forum?id=Fs38z1uuCks
+    id: 19
 
   - title: "Certifying Fairness of Probabilistic Circuits"
     authors: Nikil Roashan Selvam, Guy Van den Broeck, YooJung Choi
     url: https://openreview.net/forum?id=QLCzm27rM2
+    id: 21
 
   - title: "Explaining Deep Tractable Probabilistic Models: The sum-product network case"
     authors: Athresh Karanam, Saurabh Mathur, David M Haas, Predrag Radivojac, Kristian Kersting, Sriraam Natarajan
     url: https://openreview.net/forum?id=92R6J2pO7wz
+    id: 22
 
   - title: "Semantic Probabilistic Layers for Neuro-Symbolic Learning"
     authors: Kareem Ahmed, Stefano Teso, Kai-Wei Chang, Guy Van den Broeck, Antonio Vergari
     url: https://openreview.net/forum?id=qJY8R7rCjDr
+    id: 23
 
   - title: "Neuro-Symbolic Entropy Regularization"
     authors: Kareem Ahmed, Eric Wang, Kai-Wei Chang, Guy Van den Broeck
     url: https://openreview.net/forum?id=Ai2HIoiU1DQ
+    id: 24
 
   - title: "Your Knowledge Graph Embeddings are Secretly Circuits and You Should Treat Them as Such"
     authors: Lorenzo Loconte, Nicola Di Mauro, Robert Peharz, Antonio Vergari
     url: https://openreview.net/forum?id=2bjCZdGyEGE
+    id: 25
 
   - title: "Learning Cutset Networks by Integrating Data and Noisy, Local Estimates"
     authors: Shasha Jin, Vasundhara Komaragiri, Tahrima Rahman, Vibhav Giridhar Gogate
     url: https://openreview.net/forum?id=OzPW54zMvhQ
+    id: 26
 
   - title: "Robust Learning of Tractable Probabilistic Models"
     authors: Rohith Peddi, Tahrima Rahman, Vibhav Giridhar Gogate
     url: https://openreview.net/forum?id=9Shgfil69Yf
+    id: 27
 
   - title: "Exploiting Inferential Structure in Neural Processes"
     authors: Dharmesh Tailor, Mohammad Emtiyaz Khan, Eric Nalisnick
     url: https://openreview.net/forum?id=LTo3tkIPvSh
+    id: 28
 
   - title: "Generating Heavy-Tailed Synthetic Data with Normalizing Flows"
     authors: Saba Amiri, Eric Nalisnick, Adam Belloum, Sander Klous, Leon Gommans
     url: https://openreview.net/forum?id=PbvyJ8XpNn
+    id: 29
 
   - title: "Sparse Probabilistic Circuits via Pruning and Growing"
     authors: Meihua Dang, Anji Liu, Guy Van den Broeck
     url: https://openreview.net/forum?id=y8sP-18oMED
+    id: 30
 
   - title: "Bayesian Weak Supervision via an Optimal Transport Approach"
     authors: Putra Manggala, Holger Hoos, Eric Nalisnick
     url: https://openreview.net/forum?id=YJkf-6tTFiY
+    id: 31
 
   - title: "Distributionally Robust Learning of Sum-Product Networks"
     authors: Rohith Peddi, Vibhav Giridhar Gogate
     url: https://openreview.net/forum?id=Fbdq_aS_xR
+    id: 32
