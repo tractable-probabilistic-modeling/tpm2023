@@ -116,10 +116,17 @@ function hfun_papers()
         id = get(paper, "id", nothing)
         talk = get(paper, "talk", nothing)
 
+	gathertown = if isnothing(id)
+		""
+	else
+		"<small><b>GatherTown Poster ID: $id</b></small><br/>"
+	end
+
         write(io, """
             <li><span>
-            <strong>$(isnothing(id) ? "" : "[$id]") <a href="$url">$title</a></strong><br/>
+            <strong><a href="$url">$title</a></strong><br/>
             <small><i>$authors </i></small><br/>
+            $gathertown
             <span/></li>
         """)
 

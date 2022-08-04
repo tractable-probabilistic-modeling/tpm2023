@@ -1,6 +1,7 @@
 @def title = "Schedule"
 
-The workshop will be held **in-person** on August 5th, 2022 in Eindhoven, Netherlands.
+The workshop will be held **in-person** on August 5th, 2022 in Eindhoven, Netherlands. \
+The online poster session will take place via GatherTown, accessible through the [UAI Zoom event](https://events.zoom.us/ev/AsNLPXeW1Bc6a67ZS1eql_UfUWqAk9r7em-4eU-H_RX7z1MX-nVx~AimQKi5xtuI9eNw9RyPzo2R3d88B).
 
 # Tentative Workshop Schedule
 
