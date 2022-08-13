@@ -20,7 +20,7 @@ Topics of interest include, but are not limited to:
 ## Important Dates
 * **Submission deadline:** June 13th, 2022 AoE
 * **Notification of acceptance:** July 5th, 2022
-* **Camera-ready version:** August 12th, 2022
+* **Camera-ready version:** August 19th, 2022
 * **Workshop date:** August 5th, 2022
 
 ## Submission Instructions
