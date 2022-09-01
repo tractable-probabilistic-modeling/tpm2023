@@ -15,6 +15,9 @@ Room: Auditorium room 5
 
 The workshop schedule can be found [here](/schedule/).
 
+# Recordings
+The recordings of the invited talks and the paper presentation can be found on [online](https://www.youtube.com/channel/UCp81rihJ3U2ayQHl5nTpWAA/playlists).
+
 # Call for Papers
 
 Prospective authors are invited to submit **novel research**, **retrospective papers** or **recently accepted papers** on relevant topics including, but not limited to:
