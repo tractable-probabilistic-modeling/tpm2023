@@ -3,15 +3,15 @@ Add here global page variables to use throughout your
 website.
 The website_* must be defined for the RSS to work
 -->
-@def website_title = "TPM 2022"
+@def website_title = "TPM 2023"
 @def website_descr = "Workshop on Tractable Probabilistic Modeling"
-@def website_url   = "https://tractable-probabilistic-modeling.github.io/tpm2022/"
+@def website_url   = "https://tractable-probabilistic-modeling.github.io/tpm2023/"
 
 @def author = "Martin Trapp"
 
 @def mintoclevel = 2
 
-@def prepath = "tpm2022"
+@def prepath = "tpm2023"
 
 <!--
 Add here files or directories that should be ignored by Franklin, otherwise
