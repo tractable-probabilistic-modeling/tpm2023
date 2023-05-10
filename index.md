@@ -15,10 +15,21 @@ This year’s workshop on Tractable Probabilistic Modeling aims to build bridges
 The workshop will be held in a **hybrid** format on August 4th, 2023, co-located with [UAI 2023](https://www.auai.org/uai2023/) in Pittsburgh, PA, USA.
 
 # Call for Papers
-TBA
+We invite three types of submissions:
+
+- Novel research on tractable probabilistic modelling
+- Retrospective papers discussing the impact, consequences, and lessons learned
+- Recently accepted papers that present advances in tractable probabilistic models (in the format and length used when previously published)
+
+Submissions of original or retrospective papers should be _up to 4 pages_ and use the [TPM format](/assets/tpm2023-template.zip). 
+
+Submission Link: [https://openreview.net/group?id=auai.org/UAI/2023/Workshop/TPM](https://openreview.net/group?id=auai.org/UAI/2023/Workshop/TPM)
 
 # Important Dates
-TBA
+
+- **Submission deadline**: June 5th, 2023 AoE
+- **Notification deadline**: July 4th, 2023 AoE
+- **Camera-ready deadline**: August 18th, 2023 AoE
 
 # Organizers 
 
@@ -30,4 +41,4 @@ TBA
 
 ##
 
-<!-- Contact us at:  [tpmworkshop2023@gmail.com](mailto:tpmworkshop2023@gmail.com) -->
+Contact us at:  [tpmworkshop2023@gmail.com](mailto:tpmworkshop2023@gmail.com)
