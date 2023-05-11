@@ -23,6 +23,8 @@ We invite three types of submissions:
 
 Submissions of original or retrospective papers should be _up to 4 pages_ and use the [TPM format](/assets/tpm2023-template.zip). 
 
+See [call for papers](/cfp/) for further instructions.
+
 Submission Link: [https://openreview.net/group?id=auai.org/UAI/2023/Workshop/TPM](https://openreview.net/group?id=auai.org/UAI/2023/Workshop/TPM)
 
 # Important Dates
