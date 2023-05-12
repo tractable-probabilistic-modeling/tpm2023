@@ -6,6 +6,7 @@ speakers:
     title: TBA
     abstract: "TBA"
     bio: "TBA"
+    img: marta.jpg
 
   - name: Emtiyaz Khan
     surname: Khan
@@ -32,6 +33,7 @@ speakers:
     title: TBA
     abstract: TBA
     bio: "TBA"
+    img: jakub.jpg
 
   - name: TBA
     surname: Z
