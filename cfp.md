@@ -14,7 +14,7 @@ Topics of interest include, but are not limited to:
 * Learning algorithms for TPMs
 * Theoretical and empirical analysis of TPMs
 * Connections between TPM classes
-TPMs for responsible, robust and explainable AI
+* TPMs for responsible, robust and explainable AI
 * Approximate inference algorithms with guarantees
 * Successful applications of TPMs to real-world problems
 
