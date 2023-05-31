@@ -29,7 +29,7 @@ Submission Link: [https://openreview.net/group?id=auai.org/UAI/2023/Workshop/TPM
 
 # Important Dates
 
-- **Submission deadline**: June 5th, 2023 AoE
+- **Submission deadline**: June ~~5th~~ 12th, 2023 AoE (**deadline extended**)
 - **Notification deadline**: July 4th, 2023 AoE
 - **Camera-ready deadline**: August 18th, 2023 AoE
 
