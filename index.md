@@ -14,6 +14,9 @@ This year’s workshop on Tractable Probabilistic Modeling aims to build bridges
 # Schedule
 The workshop will be held in a **hybrid** format on August 4th, 2023, co-located with [UAI 2023](https://www.auai.org/uai2023/) in Pittsburgh, PA, USA.
 
+# Accepted Papers
+See [accepted papers](/papers/) for the list of accepted papers.
+
 # Call for Papers
 We invite three types of submissions:
 
