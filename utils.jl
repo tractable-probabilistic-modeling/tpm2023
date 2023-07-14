@@ -84,7 +84,7 @@ function hfun_invitedtalks()
         write(io, """
             <li>
             <h2> $title </h2>
-            <p><strong><a href="$url">$name</a></strong> ($affiliation) <p/>
+            <p><strong>$name</strong> ($affiliation) <p/>
             <p><strong>Abstract: </strong>$abstract <p/>
             <div class="text-muted"><p><strong>Bio: </strong>$bio <p/></div>
             </li>
