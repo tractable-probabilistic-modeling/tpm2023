@@ -1,13 +1,4 @@
 speakers:
-  - name: Marta Kwiatkowska
-    surname: Kwiatkowska
-    url: https://www.cs.ox.ac.uk/people/marta.kwiatkowska/
-    affiliation: University of Oxford, UK
-    title: TBA
-    abstract: "TBA"
-    bio: "TBA"
-    img: marta.jpg
-
   - name: Emtiyaz Khan
     surname: Khan
     url: http://emtiyaz.github.io
@@ -34,11 +25,3 @@ speakers:
     abstract: TBA
     bio: "TBA"
     img: jakub.jpg
-
-  - name: TBA
-    surname: Z
-    url: ""
-    affiliation: ""
-    title: ""
-    abstract: ""
-    bio: ""
