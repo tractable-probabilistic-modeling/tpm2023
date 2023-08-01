@@ -12,7 +12,7 @@ This year’s workshop on Tractable Probabilistic Modeling aims to build bridges
 {{ speakers }} 
 
 # Schedule
-The workshop will be held in a **hybrid** format on August 4th, 2023, co-located with [UAI 2023](https://www.auai.org/uai2023/) in Pittsburgh, PA, USA.
+The workshop will be held in a **hybrid** format on August 4th, 2023, co-located with [UAI 2023](https://www.auai.org/uai2023/) in Pittsburgh, PA, USA.\
 Room: McKenna, Peter, and Wright Room.
 
 The workshop schedule can be found [here](/schedule/).
