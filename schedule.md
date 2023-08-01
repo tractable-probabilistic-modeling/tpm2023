@@ -1,24 +1,23 @@
 @def title = "Schedule"
 
-The workshop will be held **in-person** on August 5th, 2022 in Eindhoven, Netherlands. \
-The online poster session will take place via GatherTown, accessible through the [UAI Zoom event](https://events.zoom.us/ev/AsNLPXeW1Bc6a67ZS1eql_UfUWqAk9r7em-4eU-H_RX7z1MX-nVx~AimQKi5xtuI9eNw9RyPzo2R3d88B).
+The workshop will be held **in-person** on August 4th, 2023 in Pittsburgh, PA, USA. \
+The online poster session will take place via Zoom. Please, refer to the UAI conference instructions and contact the UAI online chairs if any issues.
 
 # Workshop Schedule
 
 | Time | Description |
 |-----------|-----------|
-| 9:00 -- 9:15 am | Welcome & Best Paper Awards | 
-| 9:15 -- 10:00 am | Spotlight Presentations |
-| 10:00 -- 11:00 am | Poster session I & Coffee Break |
-| 11:00 -- 11:40 am | [Encoding spatial priors with VAEs for geospatial modelling](https://youtu.be/1Em3-IsejN4) \\ Speaker: _Elizaveta Semenova_ |
-| 11:40 -- 12:20 pm | **Cancelled** Generative models for discrete random variables and lossless source compression \\ Speaker: _Rianne van den Berg_ |
-| 12:20 -- 1:50 pm | Lunch Break |
-| 1:50 -- 2:30 pm | [An alternate scaling route for AI via probabilistic programs](https://youtu.be/OtQ2iUPwPZo) \\ Speaker: _Vikash Mansinghka_ |
-| 2:30 -- 3:10 pm | [Are Tractable Probabilistic Generative Models More Diverse?](https://youtu.be/df-lGzu7YFo) \\ Speaker: _Adji Bousso Dieng_ |
-| 3:10 -- 4:20 pm | Poster session II & Coffee Break |
-| 4:20 -- 5:00 pm | [Algorithms for Solving The Constrained Most Probable Explanation Problem](https://youtu.be/FgZQZNBybG0) \\ Speaker: _Vibhav Gogate_ |
-| 5:00 -- 5:40 pm | [Efficient and Robust Learning from Massive Datasets](https://youtu.be/0XOlT8afiWE) \\ Speaker: _Baharan Mirzasoleiman_ |
-| 5:40 -- 6:00 pm | Panel discussion & closing remarks |
+| 9:00 -- 9:10 am | Welcome & Best Paper Awards | 
+| 9:10 -- 9:35 am | Spotlight Presentations (part 1) |
+| 9:35 -- 10:00 am | Contributed Talk |
+| 10:00 -- 10:30 am | Virtual poster session I & Coffee Break |
+| 10:30 -- 11:30 am | Bayesian Learning Rule \\ Speaker: _Emtiyaz Khan_ |
+| 11:30 -- 12:30 pm | Tractable molecule generation and beyond with transformers \\ Speaker: _Jakub M. Tomczak_ |
+| 12:20 -- 2:00 pm | Lunch Break |
+| 2:00 -- 3:00 pm | Black Box Variational Inference with a Deterministic Objective: Faster, More Accurate, and Even More Black Box \\ Speaker: _Tamara Broderick_ |
+| 3:00 -- 3:50 pm | Contributed Talk |
+| 3:50 -- 4:30 pm | Virtual poster session II & Coffee Break |
+| 4:30 -- 6:30 pm | In-person poster session &  Virtual poster session II |
 
 
 # Invited Talks
