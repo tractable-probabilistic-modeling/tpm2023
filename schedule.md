@@ -1,7 +1,7 @@
 @def title = "Schedule"
 
-The workshop will be held **in-person** on August 4th, 2023 in Pittsburgh, PA, USA. \
-The online poster session will take place via Zoom. Please, refer to the UAI conference instructions and contact the UAI online chairs if any issues.
+The workshop will be held **in person** on August 4th, 2023 in Pittsburgh (PA, USA) at the Carnegie Mellon University (Room: McKenna, Peter, and Wright Room). \
+The online poster session will take place via Zoom. Please, refer to the UAI conference instructions and contact the UAI online chairs for any issues.
 
 # Workshop Schedule
 
@@ -10,12 +10,13 @@ The online poster session will take place via Zoom. Please, refer to the UAI con
 | 9:00 -- 9:10 am | Welcome & Best Paper Awards | 
 | 9:10 -- 9:35 am | Spotlight Presentations (part 1) |
 | 9:35 -- 10:00 am | Contributed Talk |
-| 10:00 -- 10:30 am | Virtual poster session I & Coffee Break |
+| 10:00 -- 10:30 am | Virtual Poster Session I & Coffee Break |
 | 10:30 -- 11:30 am | Bayesian Learning Rule \\ Speaker: _Emtiyaz Khan_ |
-| 11:30 -- 12:30 pm | Tractable molecule generation and beyond with transformers \\ Speaker: _Jakub M. Tomczak_ |
+| 11:30 -- 12:30 pm | Tractable Molecule Generation and Beyond with Transformers \\ Speaker: _Jakub M. Tomczak_ |
 | 12:20 -- 2:00 pm | Lunch Break |
 | 2:00 -- 3:00 pm | Black Box Variational Inference with a Deterministic Objective: Faster, More Accurate, and Even More Black Box \\ Speaker: _Tamara Broderick_ |
-| 3:00 -- 3:50 pm | Contributed Talk |
+| 3:00 -- 3:25 am | Spotlight Presentations (part 2) |
+| 3:25 -- 3:50 pm | Contributed Talk |
 | 3:50 -- 4:30 pm | Virtual poster session II & Coffee Break |
 | 4:30 -- 6:30 pm | In-person poster session &  Virtual poster session II |
 
