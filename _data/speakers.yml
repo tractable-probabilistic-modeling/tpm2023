@@ -3,8 +3,8 @@ speakers:
     surname: Khan
     url: http://emtiyaz.github.io
     affiliation: RIKEN-AIP, Japan
-    title: "TBA"
-    abstract: "TBA"
+    title: "Bayesian Learning Rule"
+    abstract: "Humans and animals have a natural ability to autonomously learn and quickly adapt to their surroundings. How can we design machines that do the same? In this talk, I will present Bayesian principles to bridge such gaps between humans and machines. I will show that a wide-variety of machine-learning algorithms are instances of a single learning-rule derived from Bayesian principles. I will also briefly discuss the dual perspective yielding new mechanisms for knowledge transfer in learning machines. My hope is to convince the audience that Bayesian principles are indispensable for an AI that learns as efficiently as we do."
     bio: "Emtiyaz Khan (also known as Emti) is a (tenured) team leader at the RIKEN center for Advanced Intelligence Project (AIP) in Tokyo where he leads the Approximate Bayesian Inference Team. Previously, he was a postdoc and then a scientist at Ecole Polytechnique Fédérale de Lausanne (EPFL), where he also taught two large machine learning courses and received a teaching award. He finished his PhD in machine learning from University of British Columbia in 2012. The main goal of Emti’s research is to understand the principles of learning from data and use them to develop algorithms that can learn like living beings. For more than 10 years, his work has focused on developing Bayesian methods that could lead to such fundamental principles. The approximate Bayesian inference team now continues to use these principles, as well as derive new ones, to solve real-world problems."
     img: emti.jpg
 
@@ -17,11 +17,11 @@ speakers:
     bio: "Tamara Broderick is an Associate Professor in the Department of Electrical Engineering and Computer Science at MIT. She is a member of the MIT Laboratory for Information and Decision Systems (LIDS), the MIT Statistics and Data Science Center, and the Institute for Data, Systems, and Society (IDSS). She completed her Ph.D. in Statistics at the University of California, Berkeley in 2014. Previously, she received an AB in Mathematics from Princeton University (2007), a Master of Advanced Study for completion of Part III of the Mathematical Tripos from the University of Cambridge (2008), an MPhil by research in Physics from the University of Cambridge (2009), and an MS in Computer Science from the University of California, Berkeley (2013). Her recent research has focused on developing and analyzing models for scalable Bayesian machine learning. She has been awarded selection to the COPSS Leadership Academy (2021), an Early Career Grant (ECG) from the Office of Naval Research (2020), an AISTATS Notable Paper Award (2019), an NSF CAREER Award (2018), a Sloan Research Fellowship (2018), an Army Research Office Young Investigator Program (YIP) award (2017), Google Faculty Research Awards, an Amazon Research Award, the ISBA Lifetime Members Junior Researcher Award, the Savage Award (for an outstanding doctoral dissertation in Bayesian theory and methods), the Evelyn Fix Memorial Medal and Citation (for the Ph.D. student on the Berkeley campus showing the greatest promise in statistical research), the Berkeley Fellowship, an NSF Graduate Research Fellowship, a Marshall Scholarship, and the Phi Beta Kappa Prize (for the graduating Princeton senior with the highest academic average)."
     img: tamara.jpg
 
-  - name: Jakub Tomczak
+  - name: Jakub M. Tomczak
     surname: Tomczak
     url: https://jmtomczak.github.io/
     affiliation: TU/e, NL
-    title: TBA
-    abstract: TBA
-    bio: "TBA"
+    title: "Tractable Molecule Generation and Beyond with Transformers"
+    abstract: "ChatGPT and Stable Diffusion showed that Generative AI is the way to go in building a new generation of AI systems. But what about other applications, beyond images and text? What about the tractability of these models? In this talk, we will focus on molecular modeling and discuss how to formulate tractable deep generative models for molecule generation and de novo drug design."
+    bio: "Jakub M. Tomczak is an associate professor (a PI of the Generative AI group) at the Eindhoven University of Technology. Before, he was an assistant professor of Artificial Intelligence at the Vrije Universiteit Amsterdam, a deep learning researcher (Engineer, Staff) in Qualcomm AI Research in Amsterdam, a Marie Sklodowska-Curie individual fellow in Prof. Max Welling's group at the University of Amsterdam, and an assistant professor and postdoc at the Wroclaw University of Technology. His main research interests include deep generative modeling, deep learning, and Bayesian inference, with applications to image processing, robotics, and life sciences. He is the author of the book entitled “Deep Generative Modeling”. He is also the founder of Amsterdam AI Solutions."
     img: jakub.jpg
