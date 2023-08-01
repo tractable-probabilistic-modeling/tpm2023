@@ -2,7 +2,7 @@
 
 The workshop will be held **in person** on August 4th, 2023 in Pittsburgh (PA, USA) at the Carnegie Mellon University (Room: McKenna, Peter, and Wright Room). \
 
-The online poster session will take place via Zoom at [this link](https://tinyurl.com/UAI23MPW). Please, refer to the UAI conference instructions and contact the UAI online chairs for any issues.
+The workshop will be streamed via Zoom at [this link](https://tinyurl.com/UAI23MPW). The online poster session will take place via Zoom at the same link. Please, refer to the UAI conference instructions and contact the UAI online chairs for any issues.
 
 # Workshop Schedule
 
