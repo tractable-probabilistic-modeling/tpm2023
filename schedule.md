@@ -13,14 +13,14 @@ Please, refer to the UAI conference instructions and contact the UAI online chai
 |-----------|-----------|
 | 9:00 -- 9:10 am | Welcome & Best Paper Awards | 
 | 9:10 -- 9:35 am | Spotlight Presentations (part 1) |
-| 9:35 -- 10:00 am | Contributed Talk I |
+| 9:35 -- 10:00 am | Causal normalizing flows: from theory to practice \\ _Adrián Javaloy, Pablo Sanchez Martin, Isabel Valera_ |
 | 10:00 -- 10:30 am | Coffee Break & Virtual Poster Session |
 | 10:30 -- 11:30 am | Bayesian Learning Rule \\ Speaker: _Emtiyaz Khan_ |
 | 11:30 -- 12:30 pm | Tractable Molecule Generation and Beyond with Transformers \\ Speaker: _Jakub M. Tomczak_ |
 | 12:30 -- 2:00 pm | Lunch Break & Virtual Poster Session |
 | 2:00 -- 3:00 pm | Black Box Variational Inference with a Deterministic Objective: Faster, More Accurate, and Even More Black Box \\ Speaker: _Tamara Broderick_ |
 | 3:00 -- 3:25 am | Spotlight Presentations (part 2) |
-| 3:25 -- 3:50 pm | Contributed Talk II |
+| 3:25 -- 3:50 pm | Training and Inference on Any-Order Autoregressive Models the Right Way \\ _Andy Shih, Dorsa Sadigh, Stefano Ermon_ |
 | 3:50 -- 4:30 pm | Coffee Break & Virtual Poster Session |
 | 4:30 -- 6:30 pm | In-person Poster Session & Virtual Poster Session |
 
