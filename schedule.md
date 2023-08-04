@@ -22,7 +22,7 @@ Please, refer to the UAI conference instructions and contact the UAI online chai
 | 3:00 -- 3:25 am | Spotlight Presentations (part 2) |
 | 3:25 -- 3:50 pm | Training and Inference on Any-Order Autoregressive Models the Right Way \\ _Andy Shih, Dorsa Sadigh, Stefano Ermon_ |
 | 3:50 -- 4:30 pm | Coffee Break & Virtual Poster Session |
-| 4:30 -- 6:30 pm | In-person Poster Session (McKenna, Peter, and Wright Room) \\ Virtual Poster Session [(Zoom link)](https://tinyurl.com/UAI23-TPM) |
+| 4:30 -- 6:30 pm | In-person Poster Session (McKenna, Peter, and Wright Room) \\ Virtual Poster Session ([Zoom link](https://tinyurl.com/UAI23-TPM)) |
 
 
 # Invited Talks
