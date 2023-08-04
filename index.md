@@ -18,7 +18,7 @@ Room: McKenna, Peter, and Wright Room.
 The workshop schedule can be found [here](/schedule/).
 
 # Accepted Papers
-See [accepted papers](/papers/) for the list of accepted papers.
+See [accepted papers](/papers/) for the list of accepted papers. The videos of the spotlight presentations are available on [YouTube](https://youtube.com/playlist?list=PLhxphuSjWkTnjT_iTlEdggV5htPp5UvKD).
 
 # Call for Papers
 We invite three types of submissions:
