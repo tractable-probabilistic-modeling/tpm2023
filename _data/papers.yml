@@ -7,10 +7,6 @@ papers:
     authors: "Andy Shih, Dorsa Sadigh, Stefano Ermon"
     url: "https://openreview.net/forum?id=oxjv797izr"
     id: 2
-  - title: "Learning Interpolations between Boltzmann Densities"
-    authors: "Bálint Máté, François Fleuret"
-    url: "https://openreview.net/forum?id=IO7fF0za11"
-    id: 3
   - title: "On Modal Clustering with Gaussian Sum-Product Networks"
     authors: "Tiago Madeira, Denis Mauá"
     url: "https://openreview.net/forum?id=dtzAUOmHqa"
