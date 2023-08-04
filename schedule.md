@@ -1,7 +1,7 @@
 @def title = "Schedule"
 
 The workshop will be held **in person** on August 4th, 2023 in Pittsburgh (PA, USA) at the Carnegie Mellon University.\
-Room: McKenna, Peter, and Wright Room. In-person poster session will take place in the same room.\\
+Room: McKenna, Peter, and Wright Room. **In-person poster session** will take place in the same room.\\
 
 
 The workshop will be **streamed** via Zoom at [this link](https://tinyurl.com/UAI23MPW). The **online poster session** will take place via Zoom at [this link](https://tinyurl.com/UAI23-TPM).\
@@ -22,7 +22,7 @@ Please, refer to the UAI conference instructions and contact the UAI online chai
 | 3:00 -- 3:25 am | Spotlight Presentations (part 2) |
 | 3:25 -- 3:50 pm | Training and Inference on Any-Order Autoregressive Models the Right Way \\ _Andy Shih, Dorsa Sadigh, Stefano Ermon_ |
 | 3:50 -- 4:30 pm | Coffee Break & Virtual Poster Session |
-| 4:30 -- 6:30 pm | In-person Poster Session (McKenna, Peter, and Wright Room) \\ Virtual Poster Session [Zoom link](https://tinyurl.com/UAI23-TPM) |
+| 4:30 -- 6:30 pm | In-person Poster Session (McKenna, Peter, and Wright Room) \\ Virtual Poster Session [(Zoom link)](https://tinyurl.com/UAI23-TPM) |
 
 
 # Invited Talks
