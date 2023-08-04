@@ -125,9 +125,10 @@ function hfun_papers()
             "<small><b>GatherTown Poster ID: $id</b></small><br/>"
         end
 
+        # <strong><a href="$url">$title</a></strong><br/>
         write(io, """
             <li><span>
-            <strong><a href="$url">$title</a></strong><br/>
+            <strong>$title</strong><br/>
             <small><i>$authors </i></small><br/>
             $gathertown
             <span/></li>
