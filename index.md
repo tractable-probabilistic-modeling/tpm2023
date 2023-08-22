@@ -18,7 +18,7 @@ Room: McKenna, Peter, and Wright Room.
 The workshop schedule can be found [here](/schedule/).
 
 # Accepted Papers
-See [accepted papers](/papers/) for the list of accepted papers (also on [OpenReview](https://openreview.net/group?id=auai.org/UAI/2023/Workshop/TPM)). The videos of the spotlight presentations are available on [YouTube](https://youtube.com/playlist?list=PLhxphuSjWkTnjT_iTlEdggV5htPp5UvKD).
+The accepted papers are available [here](/papers/) (and on [OpenReview](https://openreview.net/group?id=auai.org/UAI/2023/Workshop/TPM)). The **videos** of the spotlight presentations are available on [YouTube](https://youtube.com/playlist?list=PLhxphuSjWkTnjT_iTlEdggV5htPp5UvKD).
 
 # Call for Papers
 We invite three types of submissions:
