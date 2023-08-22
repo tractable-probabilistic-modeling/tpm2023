@@ -1,97 +1,78 @@
 papers:
   - title: "Training and Inference on Any-Order Autoregressive Models the Right Way"
     authors: "Andy Shih, Dorsa Sadigh, Stefano Ermon"
-    url: "https://tractable-probabilistic-modeling.github.io/tpm2023/papers/#"
-    # url: "https://openreview.net/forum?id=wDXZLKXJbZ"
+    url: "https://openreview.net/forum?id=wDXZLKXJbZ"
     id: 1
   - title: "Long Horizon Temperature Scaling"
     authors: "Andy Shih, Dorsa Sadigh, Stefano Ermon"
-    url: "https://tractable-probabilistic-modeling.github.io/tpm2023/papers/#"
-    # url: "https://openreview.net/forum?id=oxjv797izr"
+    url: "https://openreview.net/forum?id=oxjv797izr"
     id: 2
   - title: "On Modal Clustering with Gaussian Sum-Product Networks"
     authors: "Tiago Madeira, Denis Mauá"
-    url: "https://tractable-probabilistic-modeling.github.io/tpm2023/papers/#"
-    # url: "https://openreview.net/forum?id=dtzAUOmHqa"
+    url: "https://openreview.net/forum?id=dtzAUOmHqa"
     id: 4
   - title: "Sum-Product-Set Networks"
     authors: "Milan Papez, Martin Rektoris, Tomáš Pevný, Vaclav Smidl"
-    url: "https://tractable-probabilistic-modeling.github.io/tpm2023/papers/#"
-    # url: "https://openreview.net/forum?id=8hqxY5fUwg"
+    url: "https://openreview.net/forum?id=8hqxY5fUwg"
     id: 5
   - title: "Probabilistic Circuits That Know What They Don’t Know"
     authors: "Fabrizio Ventola, Steven Braun, Zhongjie Yu, Martin Mundt, Kristian Kersting"
-    url: "https://tractable-probabilistic-modeling.github.io/tpm2023/papers/#"
-    # url: "https://openreview.net/forum?id=huofG1h8a8"
+    url: "https://openreview.net/forum?id=huofG1h8a8"
     id: 6
   - title: "Characteristic Circuit"
     authors: "Zhongjie Yu, Martin Trapp, Kristian Kersting"
-    url: "https://tractable-probabilistic-modeling.github.io/tpm2023/papers/#"
-    # url: "https://openreview.net/forum?id=B3hOIfoUTO"
+    url: "https://openreview.net/forum?id=B3hOIfoUTO"
     id: 7
   - title: "Probabilistic Flow Circuits: Towards Unified Deep Models for Tractable Probabilistic Inference"
     authors: "Sahil Sidheekh, Kristian Kersting, Sriraam Natarajan"
-    url: "https://tractable-probabilistic-modeling.github.io/tpm2023/papers/#"
-    # url: "https://openreview.net/forum?id=NR9qZveyns"
+    url: "https://openreview.net/forum?id=NR9qZveyns"
     id: 10
   - title: "On test-time active feature selection through tractable acquisition functions"
     authors: "Athresh Karanam, Sriraam Natarajan"
-    url: "https://tractable-probabilistic-modeling.github.io/tpm2023/papers/#"
-    # url: "https://openreview.net/forum?id=KTnmbcy0Jn"
+    url: "https://openreview.net/forum?id=KTnmbcy0Jn"
     id: 11
   - title: "Logarithm-Approximate Floating-Point Multiplier for Hardware-efficient Inference in Probabilistic Circuits"
     authors: "Lingyun Yao, Martin Trapp, Karthekeyan Periasamy, Jelin Leslin, Gaurav Singh, Martin Andraud"
-    url: "https://tractable-probabilistic-modeling.github.io/tpm2023/papers/#"
-    # url: "https://openreview.net/forum?id=WL7YDLOLfK"
+    url: "https://openreview.net/forum?id=WL7YDLOLfK"
     id: 12
   - title: "Unifying and Understanding Overparameterized Circuit Representations via Low-Rank Tensor Decompositions"
     authors: "Antonio Mari, Gennaro Vessio, Antonio Vergari"
-    url: "https://tractable-probabilistic-modeling.github.io/tpm2023/papers/#"
-    # url: "https://openreview.net/forum?id=1btutFdIya"
+    url: "https://openreview.net/forum?id=1btutFdIya"
     id: 13
   - title: "Encoding Negative Dependencies in Probabilistic Circuits"
     authors: "Aleksanteri Mikulus Sladek, Martin Trapp, Arno Solin"
-    url: "https://tractable-probabilistic-modeling.github.io/tpm2023/papers/#"
-    # url: "https://openreview.net/forum?id=Jpd7qHaK46"
+    url: "https://openreview.net/forum?id=Jpd7qHaK46"
     id: 14
   - title: "Negative Mixture Models via Squaring"
     authors: "Lorenzo Loconte, Stefan Mengel, Nicolas Gillis, Antonio Vergari"
-    url: "https://tractable-probabilistic-modeling.github.io/tpm2023/papers/#"
-    # url: "https://openreview.net/forum?id=uTAzte88a2"
+    url: "https://openreview.net/forum?id=uTAzte88a2"
     id: 15
   - title: "Tractable Bounding of Counterfactual Queries by Knowledge Compilation"
     authors: "David Huber, Yizuo Chen, Alessandro Antonucci, Adnan Darwiche, Marco Zaffalon"
-    url: "https://tractable-probabilistic-modeling.github.io/tpm2023/papers/#"
-    # url: "https://openreview.net/forum?id=kPb6CQZo93"
+    url: "https://openreview.net/forum?id=kPb6CQZo93"
     id: 16
   - title: "Knowledge Intensive Learning of Cutset Networks"
     authors: "Saurabh Mathur, Vibhav Giridhar Gogate, Sriraam Natarajan"
-    url: "https://tractable-probabilistic-modeling.github.io/tpm2023/papers/#"
-    # url: "https://openreview.net/forum?id=KHp0ooFIpw"
+    url: "https://openreview.net/forum?id=KHp0ooFIpw"
     id: 17
   - title: "A Probabilistic Approach to Fairness under Label Bias"
     authors: "Saurav Anchlia, YooJung Choi"
-    url: "https://tractable-probabilistic-modeling.github.io/tpm2023/papers/#"
-    # url: "https://openreview.net/forum?id=a1NfxQP0pY"
+    url: "https://openreview.net/forum?id=a1NfxQP0pY"
     id: 18
   - title: "Causal normalizing flows: from theory to practice"
     authors: "Adrián Javaloy, Pablo Sanchez Martin, Isabel Valera"
-    url: "https://tractable-probabilistic-modeling.github.io/tpm2023/papers/#"
-    # url: "https://openreview.net/forum?id=yMh48zTUb5"
+    url: "https://openreview.net/forum?id=yMh48zTUb5"
     id: 19
   - title: "Bayesian Learning of Probabilistic Circuits with Domain Constraints"
     authors: "Athresh Karanam, Saurabh Mathur, Sahil Sidheekh, Sriraam Natarajan"
-    url: "https://tractable-probabilistic-modeling.github.io/tpm2023/papers/#"
-    # url: "https://openreview.net/forum?id=QqDRwaOqVX"
+    url: "https://openreview.net/forum?id=QqDRwaOqVX"
     id: 20
   - title: "LOFT - Stable Training of Normalizing Flows for Variational Inference"
     authors: "Daniel Andrade"
-    url: "https://tractable-probabilistic-modeling.github.io/tpm2023/papers/#"
-    # url: "https://openreview.net/forum?id=oCsZHXtgpv"
+    url: "https://openreview.net/forum?id=oCsZHXtgpv"
     id: 21
   - title: "Boosting AND/OR-Based Computational Protein Design: Dynamic Heuristics and Generalizable UFO"
     authors: "Bobak Pezeshki, Radu Marinescu, Alexander Ihler, Rina Dechter"
-    url: "https://tractable-probabilistic-modeling.github.io/tpm2023/papers/#"
-    # url: "https://openreview.net/forum?id=adVvxI4DsM"
-    id: 21
+    url: "https://openreview.net/forum?id=adVvxI4DsM"
+    id: 22
   
