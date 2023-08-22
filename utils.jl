@@ -128,7 +128,7 @@ function hfun_papers()
         # <strong><a href="$url">$title</a></strong><br/>
         write(io, """
             <li><span>
-            <strong>$title</strong><br/>
+            <strong><a href="$url">$title</a></strong><br/>
             <small><i>$authors </i></small><br/>
             $gathertown
             <span/></li>
